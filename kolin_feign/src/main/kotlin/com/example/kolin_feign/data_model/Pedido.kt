@@ -1,4 +1,4 @@
-package com.example.kolin_feign.GET
+package com.example.kolin_feign.data_model
 
 data class Pedido(
         val atendente: String,
